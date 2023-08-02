@@ -26,10 +26,11 @@ Neste projeto foram utilizados:
 
 -----
 🛠 Instalar o projeto:
-```
-> git clone https://github.com/viquiiz/angular-home-main-santander-dev-week.git
-> npm install
-```
+
+`git clone https://github.com/viquiiz/angular-home-main-santander-dev-week.git`
+
+`npm install`
+
 🌐 Executar o projeto:
 
 ```
