@@ -18,10 +18,6 @@
 
 -----
 
-![Preview do projeto](src\assets\pg.png)
-
------
-
 Neste projeto foram utilizados:
 - Angular (Typescript)
 - Html
