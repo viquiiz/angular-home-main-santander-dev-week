@@ -1,0 +1,20 @@
+<div class="carousel-container">
+
+    <div class="carousel-controls">
+        <button class="control-button previous" (click)="moveLeft()"></button>
+    </div>
+
+    <div class="carousel">
+        <div class="carousel-item" *ngFor="let item of visibleItems; let i = index">
+            <div class="square">
+                <img [src]="item.icon" alt="{{item.description}}">
+                <p> {{item.description}} </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="carousel-controls">
+        <button class="control-button next" (click)="moveRight()"></button>
+    </div>
+
+</div>
