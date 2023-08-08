@@ -27,6 +27,8 @@ Neste projeto foram utilizados:
 -----
 🛠 Instalar o projeto:
 
+`npm install -g @angular/cli`
+
 `git clone https://github.com/viquiiz/angular-home-main-santander-dev-week.git`
 
 `npm install`
